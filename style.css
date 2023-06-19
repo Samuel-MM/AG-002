@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background-color: #ebedf0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.form-container{
+  background-color: #cae8e8;
+  border-radius: 10px;
+}
+
+form{
+  padding: 10px;
+  text-align: center;
+}
+
+.hidden{
+  display: none;
+}
